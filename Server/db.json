@@ -1,0 +1,78 @@
+{
+  "contacts": [
+    {
+      "name": "haseeb",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToK_-LT9HmxfBNTsC0A8wfvjtfxKh3GjexbQ&usqp=CAU",
+      "email": "haseeb@gmail.com",
+      "mobile": 30009710000,
+      "company": "softsquare",
+      "url": "",
+      "title": "vue.js",
+      "groupId": 7,
+      "id": "AtDMk5n"
+    },
+    {
+      "name": "umair",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStsGHFLPwDyODsKNuo0CmvPFtBOvRMchp8dQ&usqp=CAU",
+      "email": "umair@gmail.com",
+      "mobile": 300000000,
+      "company": "developer",
+      "url": "",
+      "title": "web developer",
+      "groupId": 6,
+      "id": "AHMN5jd"
+    },
+    {
+      "name": "awais",
+      "photo": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+      "email": "awais@gmail.com",
+      "mobile": 3400000000,
+      "company": "softsquare",
+      "url": "",
+      "title": "Word press",
+      "groupId": 3,
+      "id": "DKd26sG"
+    },
+    {
+      "name": "user",
+      "photo": "https://www.awicons.com/free-icons/download/application-icons/dragon-soft-icons-by-artua.com/png/512/User.png",
+      "email": "user@gmail.com",
+      "mobile": 3240000000,
+      "company": "web developer",
+      "url": "",
+      "title": "react.js",
+      "groupId": 5,
+      "id": "bTOLvZ9"
+    }
+  ],
+  "groups": [
+    {
+      "id": 1,
+      "name": "colleague"
+    },
+    {
+      "id": 2,
+      "name": "company"
+    },
+    {
+      "id": 3,
+      "name": "developer"
+    },
+    {
+      "id": 4,
+      "name": "area"
+    },
+    {
+      "id": 5,
+      "name": "Social"
+    },
+    {
+      "id": 6,
+      "name": "friend"
+    },
+    {
+      "id": 7,
+      "name": "user"
+    }
+  ]
+}
